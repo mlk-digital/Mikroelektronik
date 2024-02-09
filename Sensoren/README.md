@@ -1,0 +1,5 @@
+# Sensoren
+
+## Temperatur
+- DHT11
+
